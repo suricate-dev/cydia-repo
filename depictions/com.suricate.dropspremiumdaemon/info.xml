@@ -1,0 +1,20 @@
+<package>
+	<id>com.suricate.dropspremiumdaemon</id>
+	<name>Drops Premium Daemon</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>sed</package>
+	</dependencies>
+	<shortDescription>Drops Premium Daemon (dependency used by Drops Premium to patch Drops App)</shortDescription>
+	<descriptionlist>
+		<description>Used only as a dependency ! You don't need to install this manually, install dropspremium instead.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>

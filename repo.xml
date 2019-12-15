@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>If you like my tweaks, you may buy me a coffee :)</name>
+			<url>https://www.buymeacoffee.com/SuricateDev</url>
+			<iconclass>fa fa-coffee</iconclass>
+		</link>
+		<link>
+			<name>Contact me at : suricate.dev@gmail.com</name>
+			<url>mailto:suricate.dev@gmail.com</url>
+			<iconclass>fa fa-envelope</iconclass>
+		</link>
+	</footerlinks>
+</repo>

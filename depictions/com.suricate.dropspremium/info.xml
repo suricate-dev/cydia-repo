@@ -1,0 +1,22 @@
+<package>
+	<id>com.suricate.dropspremium</id>
+	<name>Drops Premium</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>dropspremiumdaemon</package>
+	</dependencies>
+	<shortDescription>A patch that enables all premium features in Drops app.</shortDescription>
+	<descriptionlist>
+		<description>Gives Unlimited time and access to all topics.</description>
+		<description>Patch is activated on respring, then restart Drops app to get premium features.</description>
+		<description>If Drops app gets updated, you need to respring your device to enable patch again.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
